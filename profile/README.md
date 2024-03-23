@@ -1,2 +1,2 @@
-# Carrot Developers
-We're the Carrot Devs. We develop mainly geode mods.
+# Click Sounds
+Welcome to the Click Sounds Org!
